@@ -8,8 +8,6 @@
   <a href="https://t.me/themegadownloadbot">
     <img src="https://img.shields.io/badge/Telegram-Try%20Live%20Bot-blue?logo=telegram">
   </a>
-  <img src="https://img.shields.io/badge/Maintained-Yes-success">
-  <img src="https://img.shields.io/badge/License-GPLv3-orange">
 </p>
 
 ---
